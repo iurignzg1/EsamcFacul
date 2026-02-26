@@ -1,0 +1,2 @@
+Tipos de valor não alteram os outros, entao a = b, se alterar o valor de b nao alteraria o valor de a
+Tipos de referencia alteram os valores, entao a = b, se alterar b, a tambem sera alterado
