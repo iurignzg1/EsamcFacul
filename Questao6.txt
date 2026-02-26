@@ -1,0 +1,3 @@
+o comando numeros2[0] = 100; altera o valor de numeros1 por serem variaveis iguais, sendo a novo indice [0] = 100
+
+criar um novo array
