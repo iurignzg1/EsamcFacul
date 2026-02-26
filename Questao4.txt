@@ -1,0 +1,3 @@
+s1 == s2 é verdadeiro, o comparador == verifica que s1 é igual a s2 e retorna verdadeiro
+
+pois o new string gera uma nova instância, enquanto s1 já possui instância gerada
